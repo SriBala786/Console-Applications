@@ -1,0 +1,11 @@
+E:\Workspace Csharp\RemoteDebugger\RemoteDebugger.exe
+E:\Workspace Csharp\RemoteDebugger\RemoteDebugger.dll
+E:\Workspace Csharp\RemoteDebugger\RemoteDebugger.deps.json
+E:\Workspace Csharp\RemoteDebugger\RemoteDebugger.runtimeconfig.json
+E:\Workspace Csharp\RemoteDebugger\RemoteDebugger.dll.config
+E:\Workspace Csharp\RemoteDebugger\RemoteDebugger.pdb
+E:\Workspace Csharp\RemoteDebugger\log4net.dll
+E:\Workspace Csharp\RemoteDebugger\System.Configuration.ConfigurationManager.dll
+E:\Workspace Csharp\RemoteDebugger\System.Security.Cryptography.ProtectedData.dll
+E:\Workspace Csharp\RemoteDebugger\System.Security.Permissions.dll
+E:\Workspace Csharp\RemoteDebugger\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll

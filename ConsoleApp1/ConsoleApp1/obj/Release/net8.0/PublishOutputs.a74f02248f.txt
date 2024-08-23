@@ -1,0 +1,5 @@
+F:\New folder\ConsoleApp1.exe
+F:\New folder\ConsoleApp1.dll
+F:\New folder\ConsoleApp1.deps.json
+F:\New folder\ConsoleApp1.runtimeconfig.json
+F:\New folder\ConsoleApp1.pdb

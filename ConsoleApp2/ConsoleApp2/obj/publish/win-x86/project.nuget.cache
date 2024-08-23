@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "nsRjOfFXkmmXWPlCxt2eCFY3wtA34QzW2tdu7hWsUDnApG8xRp4c119QjFTx/g2/w06F9TlYXywdB0ZTf23NjQ==",
+  "success": true,
+  "projectFilePath": "E:\\Console App\\ConsoleApp2\\ConsoleApp2\\RemoteDebugger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sri Balaji\\.nuget\\packages\\log4net\\2.0.17\\log4net.2.0.17.nupkg.sha512",
+    "C:\\Users\\Sri Balaji\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Sri Balaji\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\Sri Balaji\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\Sri Balaji\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\Sri Balaji\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\Sri Balaji\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\Sri Balaji\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.1\\microsoft.netcore.app.runtime.win-x86.8.0.1.nupkg.sha512",
+    "C:\\Users\\Sri Balaji\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.1\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.1.nupkg.sha512",
+    "C:\\Users\\Sri Balaji\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.1\\microsoft.aspnetcore.app.runtime.win-x86.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
